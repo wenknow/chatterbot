@@ -2,7 +2,7 @@
 ##  一、获取语料
 
 * 中文聊天语料这一块，我选择了网上大神整理的资料，选取其中一部分，小黄鸡语料
-公开中文语料包：https://github.com/codemayq/chinese_chatbot_corpus
+公开中文语料包：https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A 提取码：f2ex 中。
 
 ![](https://upload-images.jianshu.io/upload_images/21643577-f3b7f711f401a90a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
